@@ -11,6 +11,7 @@ Essentially, you'll be exploring international debt statistics to gain insights 
 Project Tasks
 
 1.The World Bank's international debt data
+
 2.Finding the number of distinct countries
 3.Finding out the distinct debt indicators
 4.Totaling the amount of debt owed by the countries
